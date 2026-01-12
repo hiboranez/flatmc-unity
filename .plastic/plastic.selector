@@ -1,0 +1,4 @@
+repository "FlatMC@easonzero10@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
