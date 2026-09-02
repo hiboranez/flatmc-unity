@@ -1,6 +1,6 @@
 <div align="center">
 
-# FlatMC Unity Alpha
+# FlatMC Unity Edition
 
 ### An archived Unity implementation of the FlatMC 2D sandbox game
 

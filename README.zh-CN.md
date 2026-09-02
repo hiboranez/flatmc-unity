@@ -1,6 +1,6 @@
 <div align="center">
 
-# FlatMC Unity Alpha
+# FlatMC Unity Edition
 
 ### FlatMC 2D 沙盒游戏的 Unity 历史实现
 
@@ -62,4 +62,3 @@ Unity 版在原 beta 版本后结束开发，FlatCraft 是 FlatMC 的后继项�
 ## 许可证
 
 本项目采用 [MIT License](LICENSE)。素材和第三方组件可能适用单独条款。
-
