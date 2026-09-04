@@ -24,12 +24,12 @@ FlatMC Unity Alpha was a mobile-focused Unity rewrite of FlatMC. It introduced t
 
 | Version | Original version | Date | Summary |
 | --- | --- | --- | --- |
-| v0.1.0 | Unity v0.5.0-alpha | 2024-03-04 | First Android test build |
-| v0.2.0 | Unity v0.5.0-beta | 2024-05-23 | Player, survival, storage, and smelting update; final Unity release |
+| 0.1.0 | Unity 0.5.0-alpha | 2024-03-04 | First Android test build |
+| 0.2.0 | Unity 0.5.0-beta | 2024-05-23 | Player, survival, storage, and smelting update; final Unity release |
 
-The first normalized GitHub release is `v0.1.0`. The later historical release will be published after review.
+The first normalized GitHub release is `0.1.0`. The later historical release will be published after review.
 
-## v0.1.0 Features
+## 0.1.0 Features
 
 - Android APK with touch joystick controls.
 - Background walls, head movement, parallax backgrounds, improved day/night rendering, and a redesigned UI.
@@ -48,8 +48,8 @@ This early build did not yet include several planned systems, including creative
 
 ## Known Limitations
 
-- The repository is a later preservation snapshot, not a reconstructed `v0.1.0` source tree.
-- No original, verifiable `v0.1.0` APK is currently attached.
+- The repository is a later preservation snapshot, not a reconstructed `0.1.0` source tree.
+- No original, verifiable `0.1.0` APK is currently attached.
 - iOS support was not completed.
 - The project is not compatible with FlatCraft.
 ## Project Status
