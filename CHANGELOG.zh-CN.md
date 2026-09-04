@@ -4,8 +4,8 @@
 
 | 中文更新日志 | English release notes |
 | --- | --- |
-| [Alpha v0.2.0](docs/releases/v0.2.0.zh-CN.md) | [Alpha v0.2.0](https://github.com/hiboranez/flatmc-unity/releases/tag/v0.2.0) |
-| [Alpha v0.1.0](docs/releases/v0.1.0.zh-CN.md) | [Alpha v0.1.0](https://github.com/hiboranez/flatmc-unity/releases/tag/v0.1.0) |
+| [Alpha 0.2.0](docs/releases/v0.2.0.zh-CN.md) | [Alpha 0.2.0](https://github.com/hiboranez/flatmc-unity/releases/tag/v0.2.0) |
+| [Alpha 0.1.0](docs/releases/v0.1.0.zh-CN.md) | [Alpha 0.1.0](https://github.com/hiboranez/flatmc-unity/releases/tag/v0.1.0) |
 
 ## 项目状态
 
